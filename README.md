@@ -4,4 +4,8 @@ In this repo we are exploring different planets.
 
 ## Contact
 
-Wite an email: xx@bliblablubb.bla
+Write an email: xx@bliblablubb.bla
+
+## Date
+
+05/11/2024
